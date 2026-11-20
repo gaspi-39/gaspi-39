@@ -13,20 +13,20 @@ Desarrollador backend en formación · Estudiante de Analista Programador · En 
 
 ---
 
-## 👋 Sobre mí
+## Sobre mí
 
-Me especializo en desarrollo backend con **Java y Spring Boot**, con foco en arquitectura asíncrona, persistencia y diseño de APIs. Actualmente consolido bases sólidas mientras aprendo a trabajar en equipo y a aplicar buenas prácticas: pruebas, reflexión y entender el _por qué_ detrás de cada herramienta.
+Me especializo en desarrollo backend con **Java y Spring Boot**, estoy trabajando en arquitectura asíncrona, persistencia y diseño de APIs. Actualmente consolido bases sólidas mientras aprendo a trabajar en equipo y a aplicar buenas prácticas: pruebas, reflexión y entender el _por qué_ detrás de cada herramienta.
 
 Prefiero construir desde cero para comprender cómo funcionan las cosas: de ahí salió mi mini ORM. Hoy canalizo eso en sistemas con colas, reintentos y estados persistentes, y aporto a proyectos open source del ecosistema Java.
 
 ---
 
-## 🧰 Stack
+## Stack
 
 > Hacé click en cada categoría para ver las tecnologías (pasá el mouse por cada icono).
 
 <details>
-<summary><b>☕ Backend</b></summary>
+<summary><b> Backend</b></summary>
 <br>
 
 <img src="https://img.shields.io/badge/Java%2021-007396?style=flat-square&logo=openjdk&logoColor=white" title="Java 21 — lenguaje principal" alt="Java 21">
@@ -39,7 +39,7 @@ Prefiero construir desde cero para comprender cómo funcionan las cosas: de ahí
 </details>
 
 <details>
-<summary><b>🗄️ Datos y mensajería</b></summary>
+<summary><b> Datos y mensajería</b></summary>
 <br>
 
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" title="PostgreSQL" alt="PostgreSQL">
@@ -50,7 +50,7 @@ Prefiero construir desde cero para comprender cómo funcionan las cosas: de ahí
 </details>
 
 <details>
-<summary><b>🛠️ Herramientas y prácticas</b></summary>
+<summary><b> Herramientas y prácticas</b></summary>
 <br>
 
 <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" title="Maven" alt="Maven">
@@ -63,9 +63,9 @@ Prefiero construir desde cero para comprender cómo funcionan las cosas: de ahí
 
 ---
 
-## 🚀 Proyectos recientes
+## Proyectos recientes
 
-### 🧵 Async Task Processor — [queue-task-processor](https://github.com/gaspi-39/queue-task-processor)
+### Async Task Processor — [queue-task-processor](https://github.com/gaspi-39/queue-task-processor)
 
 API que recibe tareas pesadas, las encola y las procesa con workers en background. El cliente recibe `202 Accepted` con un id y consulta el estado después.
 
@@ -77,7 +77,7 @@ API que recibe tareas pesadas, las encola y las procesa con workers en backgroun
 
 [Ver código](https://github.com/gaspi-39/queue-task-processor) · [Arquitectura y ejemplos](https://github.com/gaspi-39/queue-task-processor#readme)
 
-### 🗃️ mini-orm — [mini-orm](https://github.com/gaspi-39/mini-orm)
+### mini-orm — [mini-orm](https://github.com/gaspi-39/mini-orm)
 
 ORM escrito desde cero para entender cómo funciona Hibernate y afianzar programación orientada a objetos.
 
@@ -87,7 +87,7 @@ ORM escrito desde cero para entender cómo funciona Hibernate y afianzar program
 
 [Ver código](https://github.com/gaspi-39/mini-orm)
 
-### 🤝 Contribuciones open source — [JVM-MCP](https://github.com/oscarbol09/jvm-mcp)
+### Contribuciones open source — [JVM-MCP](https://github.com/oscarbol09/jvm-mcp)
 
 Servidor MCP en Java 21 que expone memoria, threads, beans de Spring y pools HikariCP en vivo mediante Attach API, sin modificar la aplicación destino.
 
@@ -99,7 +99,7 @@ Servidor MCP en Java 21 que expone memoria, threads, beans de Spring y pools Hik
 
 ---
 
-## 📈 Estado actual
+## Estado actual
 
 - [x] API REST con persistencia y lógica de negocio
 - [x] Worker asíncrono con colas, reintentos y DLQ
@@ -109,7 +109,7 @@ Servidor MCP en Java 21 que expone memoria, threads, beans de Spring y pools Hik
 - [ ] Sumar tests de integración con Testcontainers
 
 <details>
-<summary>🕹️ Otros proyectos</summary>
+<summary> Otros proyectos</summary>
 <br>
 
 - [impostor](https://github.com/gaspi-39/impostor) — API para jugar al impostor con amigos.
@@ -124,7 +124,7 @@ Servidor MCP en Java 21 que expone memoria, threads, beans de Spring y pools Hik
 
 <div align="center">
 
-### 📫 Contacto
+### Contacto
 
 <a href="mailto:lazartegaspar@gmail.com"><img src="https://img.shields.io/badge/Email-lazartegaspar%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://www.linkedin.com/in/gasparlazarte/"><img src="https://img.shields.io/badge/LinkedIn-gasparlazarte-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
